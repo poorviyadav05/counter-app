@@ -1,0 +1,46 @@
+body {
+    border: 400px;
+    background: linear-gradient(139deg, rgb(218, 89, 47) 5%, rgb(84, 148, 182) 82%);
+    background-size: cover;
+    height: 100vh;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.app-display{
+    background: #4FBEA7;
+    background: linear-gradient(45deg, #4FBEA7, #d76d7b);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: #5e4646 2px 5px 15px 5px;
+    width: 400px;
+}
+h1{
+    text-align: center;
+    color: #1c1111;
+    font-size: 30px;
+    font-weight: 700;
+}
+p{
+    text-align: center;
+}
+
+.btn{
+    background: #b64b68;
+    color: #eae3e3;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 300;
+    margin: 5px 0;
+    box-shadow: 5px 5px 10px 5px #654b4b;
+}
+span{
+    color: #262020;
+    font-size: 70px;
+    font-weight: 800;
+}
